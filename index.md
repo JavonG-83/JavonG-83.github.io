@@ -1,25 +1,15 @@
-# My Markdown File
+# My Page
 
-Welcome to my Markdown file! Below you'll find various sections showcasing some basic Markdown syntax.
+It took a whole semester, but we got there
 
-## Table of Contents
+## About Me
 
-1. [Introduction](#introduction)
-2. [Code Example](#code-example)
-3. [Image Example](#image-example)
-4. [List Example](#list-example)
-5. [Links and References](#links-and-references)
+I eventually finished my c++ class, and my last assignemnt was to create this page and add one final project to it
 
-## Introduction
+We've had many options on what to put here: Github, Raylib, Twine, RPG Maker (?)
+I chose to use bitsy, becuase I had a splendid idea while at work
 
-This is a basic introduction section. Markdown is a lightweight markup language that you can use to format text. It's widely used for documentation, readme files, and writing content for the web.
+Here's the link to the demo on itch
 
-## Code Example
+https://javong-83.itch.io/zap-demo
 
-Here's a simple code block example:
-
-```python
-def greet(name):
-    return f"Hello, {name}!"
-
-print(greet('World'))
